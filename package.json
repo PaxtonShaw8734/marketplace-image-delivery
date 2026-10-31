@@ -1,0 +1,1 @@
+{"name":"marketplace-image-delivery","private":true,"type":"module","scripts":{"start":"node --experimental-strip-types src/serve.ts","test":"node --experimental-strip-types src/marketplace_image.test.ts","typecheck":"tsc --noEmit"},"devDependencies":{"typescript":"^5.7.2","@types/node":"^22.0.0"}}
